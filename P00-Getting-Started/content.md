@@ -3,6 +3,9 @@ title: "Introducing Recursion"
 slug: recursion-playground
 ---
 
+> [info]
+> **This Playground (and the functions playground) is a bit unstable on some computers. We are in the process of updating it so it is stable on _all_ computers!**
+
 In this playground we are going to create some more generative art! We'll be using the concept of _recursion_ to create trees and different fractal-like objects!
 
 > [action]
